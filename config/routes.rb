@@ -1,5 +1,5 @@
 Rails.application.routes.draw do
-  resources :tags
+
   resources :user_breweries
   resources :reviews
   resources :breweries
