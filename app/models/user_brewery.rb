@@ -1,4 +1,4 @@
 class UserBrewery < ApplicationRecord
-    has_many :users
-    has_many :breweries
+    belongs_to :user
+    belongs_to :brewery 
 end
