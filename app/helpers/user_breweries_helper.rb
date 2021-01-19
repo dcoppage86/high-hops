@@ -1,0 +1,2 @@
+module UserBreweriesHelper
+end

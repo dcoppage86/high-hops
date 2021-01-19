@@ -19,7 +19,8 @@
 #       12 characters.
 
 # 4. A Brewery must have a name, date_established
-#    hours_of_operation, description, phone_number, street_address, city.
+#    open, close, description, phone_number, street_number, street_name,
+#    website, city, state.
 
 # 5. A review must have a title, content, writer_id, reader_id
 
