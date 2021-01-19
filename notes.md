@@ -22,7 +22,7 @@
 #    open, close, description, phone_number, street_number, street_name,
 #    website, city, state.
 
-# 5. A review must have a title, content, writer_id, reader_id
+# 5. A review must have a title, content
 
 # 6. User_brewery must have a brewery_id, user_id
 
