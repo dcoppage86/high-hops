@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
 
-  resources :user_breweries, only: [:create, :destroy, :show]
+  resources :user_breweries, only: [:new, :create, :destroy, :show]
   resources :reviews, only: [:new, :create, :edit, :update, :destroy]
   resources :breweries, only: [:show]
   resources :users
